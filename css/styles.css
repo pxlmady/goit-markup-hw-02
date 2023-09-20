@@ -32,3 +32,96 @@ a {
         text-transform: uppercase;
         color: #434455
 }
+
+.nav-links-studio,
+.nav-links-portfolio,
+.nav-links-contacts {
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2E2F42;
+}
+
+.address-mail a,
+.address-tel a {
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-transform: lowercase;
+        color: #434455;
+}
+
+.main {
+    background-color: #2e2f42;
+}
+
+.main-title {
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 56px;
+        font-style: normal;
+        line-height: 1;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #FFFFFF;
+}
+
+.main-button-order {
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        cursor: pointer;
+        text-align: center;
+        color: #ffffff;
+        background-color: #4d5ae5;
+        ;
+}
+
+.main-button-order:hover {
+    color: #ffffff;
+    background: #404bbf;
+}
+
+.main-button-order:focus {
+    color: #ffffff;
+    background: #404bbf;
+}
+
+.advantages-title {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+        font-weight: 700;
+        font-size: 36px;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.advantages-stragety,
+.advantages-punctuality,
+.advantages-diligence,
+.advantages-technologies {
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        font-style: normal;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2E2F42;;
+}
+
+.our-team {
+    background-color: #2d2dcf;
+}
