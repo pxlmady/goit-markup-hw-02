@@ -222,7 +222,10 @@ a {
     font-style: normal;
 }
 
-.address-item:hover,
-:focus {
+.address-item:hover {
+    color: #404bbf;
+}
+
+.address-item:focus {
     color: #404bbf;
 }
