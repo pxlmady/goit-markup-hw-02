@@ -97,7 +97,9 @@ a {
     background: #404bbf;
 }
 
-.advantages-title {
+.advantages-title,
+.our-team-title,
+.our-portfolio-title {
     font-family: "Roboto", sans-serif;
     text-align: center;
         font-weight: 700;
@@ -123,5 +125,47 @@ a {
 }
 
 .our-team {
-    background-color: #2d2dcf;
+    background-color: #f4f4fd;
+}
+
+.our-team-li-mark {
+    background-color: #ffffff;
+}
+
+.our-team-li-tom {
+    background-color: #ffffff;
+}
+
+.our-team-li-camila {
+    background-color: #FFFFFF;
+}
+
+.our-team-li-daniel {
+    background-color: #FFFFFF;
+}
+
+.team-mark-h,
+.team-tom-h,
+.team-camila-h,
+.team-daniel-h {
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        font-style: normal;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.our-portfolio-subtitle-banking,
+.our-portfolio-subtitle-cashless,
+.our-portfolio-subtitle-meditation,
+.our-portfolio-subtitle-taxi {
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: #2E2F42;;
 }
