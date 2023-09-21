@@ -96,7 +96,6 @@ a {
 }
 
 .advantages-title,
-.our-team-title,
 .our-portfolio-title {
     font-family: "Roboto", sans-serif;
     text-align: center;
@@ -106,6 +105,18 @@ a {
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+}
+
+.our-team-title {
+    font-family: "Roboto", sans-serif;
+        text-align: center;
+        font-weight: 700;
+        font-size: 36px;
+        font-style: normal;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color:#2e2f42;
 }
 
 .advantages-subtitle {
