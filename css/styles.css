@@ -218,6 +218,10 @@ a {
     color: #404bbf;
 }
 
+.nav-links:focus {
+    color: #404bbf;
+}
+
 .address {
     font-style: normal;
 }
