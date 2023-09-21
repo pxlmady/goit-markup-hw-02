@@ -108,15 +108,12 @@ a {
         color: #434455;
 }
 
-.advantages-stragety,
-.advantages-punctuality,
-.advantages-diligence,
-.advantages-technologies {
+.advantages-subtitle {
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
         font-style: normal;
-        line-height: 1.2;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: #2E2F42;;
@@ -202,10 +199,7 @@ a {
         color: #F4F4FD;
 }
 
-.advantages-stragety-text,
-.advantages-punctuality-text,
-.advantages-diligence-text,
-.advantages-technologies-text {
+.advantages-text {
         font-family: Roboto;
         font-size: 16px;
         font-weight: 400;
