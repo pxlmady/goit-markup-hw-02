@@ -123,26 +123,11 @@ a {
     background-color: #f4f4fd;
 }
 
-.our-team-li-mark {
+.our-team-li-cadr{
     background-color: #ffffff;
 }
 
-.our-team-li-tom {
-    background-color: #ffffff;
-}
-
-.our-team-li-camila {
-    background-color: #FFFFFF;
-}
-
-.our-team-li-daniel {
-    background-color: #FFFFFF;
-}
-
-.team-mark-h,
-.team-tom-h,
-.team-camila-h,
-.team-daniel-h {
+.team-cadr-title {
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
@@ -151,6 +136,15 @@ a {
         letter-spacing: 0.02em;
         color: #2E2F42;
 }
+
+.team-cadr-text {
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
 
 .our-portfolio-subtitle-banking,
 .our-portfolio-subtitle-cashless,
