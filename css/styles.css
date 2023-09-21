@@ -30,12 +30,10 @@ a {
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #434455
+        color: #2e2f42
 }
 
-.nav-links-studio,
-.nav-links-portfolio,
-.nav-links-contacts {
+.nav-links {
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
@@ -214,4 +212,12 @@ a {
         line-height: 1.2;
         letter-spacing: 0.02em;
         text-align: left;
+}
+
+.nav-links:hover {
+    color: #404bbf;
+}
+
+.address {
+    font-style: normal;
 }
